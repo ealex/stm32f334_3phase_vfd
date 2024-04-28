@@ -60,7 +60,7 @@
     (property "Value" "STGIB15CH60TS-L" (id 1) (at 10.16 -62.23 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -22.86 16.51 0)
+    (property "Footprint" "stm32f334_3phase_vfd:SDIP2B-26L_L1_STM" (id 2) (at 10.16 8.255 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -22.86 16.51 0)
