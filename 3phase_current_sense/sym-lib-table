@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "custom_parts")(type "KiCad")(uri "/mnt/20A6E6BFA6E69496/work/electronica/stm32f334_3phase_vfd/stm32f334_3phase_vfd/custom_parts.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-04-28_06-25-32")(type "KiCad")(uri "/mnt/20A6E6BFA6E69496/work/electronica/stm32f334_3phase_vfd/stm32f334_3phase_vfd/2024-04-28_06-25-32.kicad_sym")(options "")(descr ""))
+)
