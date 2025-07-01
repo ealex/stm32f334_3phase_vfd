@@ -1651,6 +1651,11 @@
     (uuid fffb8e13-56b7-4860-b78c-407d15905b14)
   )
 
+  (text "NOTE: 3V3_DIG can be powered from a \nGPIO input with pull-up, with R210 shorted\nThat way enabling the pull-up takes the chip\nout of shutdown, and an falling edge IRQ\ncan be used to detect overcurrent"
+    (at 67.31 137.16 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0ccf3bde-866e-4231-b785-fc8e0833134f)
+  )
   (text "!! C206, C208 and C210\n!! are soldered on top of\n!! C205, C207 and C209"
     (at 80.01 43.815 0)
     (effects (font (size 2.54 2.54) (thickness 0.254) bold) (justify left bottom))
